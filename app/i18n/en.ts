@@ -2,7 +2,7 @@ import demoEn from "./demo-en"
 
 const en = {
   common: {
-    ok: "OK!",ß
+    ok: "OK!",
     cancel: "Cancel",
     back: "Back",
     logOut: "Log Out",
